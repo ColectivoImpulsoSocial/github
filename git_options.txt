@@ -13,6 +13,10 @@ Después de que ya se hizo commit (se supone que checa el repositorio original p
 git push
 *Aquí se pedirá los datos de usuario y contraseña de github.
 
-probando{
-hola mundo
-}
+Hay que hacer commit de cada archivo modificado:
+git commit <file> -m "Mensaje del commit"
+
+Para hacer un pull de otro repositorio:
+git pull <https://repositorio>
+
+Si hay problemas al hacer merge automático, hay que resolver, se puede hacer gŕafico con:
