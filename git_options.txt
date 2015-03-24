@@ -1,0 +1,18 @@
+Se pueden usar comandos en linux (su equivalente gráfico debe ser visto en la página y alguien más lo puede actualizar).                                                   
+Para bajar una copia de un repositorio, basta usar git clone y la dirección del repositorio` o directorio dentro del repositorio.
+git clone https://github.com/ColectivoImpulsoSocial/github
+
+git add: Esto añade un archivo que no existía. Primero tiene que estar creado el archivo, después:
+git add <nombre del archivo>
+*Si se crearon directorios para esto, no es necesario añadirlos, automáticamente se actualizarán.
+
+Luego que se agregó, se usa:
+git commit -m <Comentario para guardar estos cambios, es necesario para llevar un buen control de lo que se cambia, resumir los cambios que se hicieron>
+
+Después de que ya se hizo commit (se supone que checa el repositorio original para ese momento y los archivos modificados)
+git push
+*Aquí se pedirá los datos de usuario y contraseña de github.
+
+probando{
+hola mundo
+}
