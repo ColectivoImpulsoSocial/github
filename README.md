@@ -10,11 +10,10 @@ Repositorio para documentar ayuda de github
    c) En Mac: (lo mismo que arriba)
 3. 
 
-#documentación en la red#
+#Documentación en la red#
 
-#####libro#####
+###Libro###
 http://www.etnassoft.com/biblioteca/pro-git-2nd-edition/
 
-###algunos tutoriales###
+###Algunos tutoriales###
 http://www.linux.com/learn/tutorials/796387-beginning-git-and-github-for-linux-users/
->>>>>>> 1786f00b564d673d816a1f1e3f7a7cd1e13ac4f8
