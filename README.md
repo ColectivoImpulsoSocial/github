@@ -3,7 +3,7 @@ Repositorio para documentar ayuda de github
 
 #Documentación en la red#
 
-####Libro####
+###Libro###
 http://www.etnassoft.com/biblioteca/pro-git-2nd-edition/
 
 ###Algunos tutoriales###
