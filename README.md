@@ -1,10 +1,10 @@
 # github
 Repositorio para documentar ayuda de github
 
-#documentación en la red#
+#Documentación en la red#
 
-#####libro#####
+####Libro####
 http://www.etnassoft.com/biblioteca/pro-git-2nd-edition/
 
-###algunos tutoriales###
+###Algunos tutoriales###
 http://www.linux.com/learn/tutorials/796387-beginning-git-and-github-for-linux-users/
