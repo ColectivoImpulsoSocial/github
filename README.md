@@ -18,3 +18,9 @@ http://www.etnassoft.com/biblioteca/pro-git-2nd-edition/
 ###Algunos tutoriales###
 http://www.linux.com/learn/tutorials/796387-beginning-git-and-github-for-linux-users/
 Probando branch
+
+###Documentación oficial de github###
+http://git-scm.com/
+http://git-scm.com/documentation
+consola de prueba en linea!! 
+https://try.github.io/levels/1/challenges/1 o solo clic en el link "try git"
